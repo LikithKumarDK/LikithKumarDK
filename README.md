@@ -1,4 +1,4 @@
-# Hi everyone, I'm Likith Kumar D K
+# Hi everyone, I'm Likith Kumar D K :wave: 
 
 I'm a software engineer who is passionate about creating full stack applications, As a full stack developer, I possess a comprehensive skill set that enables me to handle the entire development process, from front-end to back-end. I have a deep understanding of various programming languages, frameworks, and technologies, allowing me to create robust and user-friendly web applications.
 
