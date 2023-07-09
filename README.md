@@ -1,6 +1,6 @@
 # Hi everyone :wave:, I'm Likith Kumar D K
 
-I'm a software engineer who is passionate about creating full stack applications, As a full stack developer, I possess a comprehensive skill set that enables me to handle the entire development process, from front-end to back-end. I have a deep understanding of various programming languages, frameworks, and technologies, allowing me to create robust and user-friendly web applications.
+I'm a software engineer :computer: who is passionate about creating full stack applications, As a full stack developer, I possess a comprehensive skill set that enables me to handle the entire development process, from front-end to back-end. I have a deep understanding of various programming languages, frameworks, and technologies, allowing me to create robust and user-friendly web applications.
 
 On the front-end, I excel in HTML, CSS, JavaScript, Jquery and Ajax along with modern frameworks like React, Next, Electron, Angular, Vue.js and Etc... I can develop responsive and visually appealing user interfaces, ensuring an optimal user experience across different devices and browsers. I am well-versed in UI/UX principles and strive to create intuitive and engaging interfaces.
 
